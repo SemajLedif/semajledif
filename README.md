@@ -1,59 +1,100 @@
-# 👋 Hi, I'm James
+# 👋 Hello, I'm James
 
-## 🚀 About Me
-I am a technology builder passionate about using **Artificial Intelligence and Machine Learning** to solve real-world healthcare challenges.
-
-🌍 co-founder & Vision Builder of **Sorabbyngo**  
-🧠 Currently mastering Machine Learning and AI systems  
-💡 Focused on scalable healthcare innovation for Africa and the world  
+<h3 align="center">🚀 AI Builder | Healthcare Innovator | Startup Visionary</h3>
 
 ---
 
-## 🔭 Current Mission
-Building intelligent healthcare systems that improve:
-- Patient monitoring
-- Emergency response systems
-- Disease prediction using AI
-- Digital healthcare infrastructure for developing regions
+## 🌍 About Me
+
+I am a technology-driven innovator focused on building **Artificial Intelligence and Machine Learning systems** that solve real-world healthcare challenges.
+
+🧠 Founder & Vision Architect of **Sorabbyngo**  
+💡 Passionate about AI, healthcare innovation, and scalable technology  
+🌱 Currently mastering Machine Learning & AI system architecture  
+🚀 Mission: Transform healthcare systems across Africa and globally  
 
 ---
 
-## 🛠️ Tech & Skills
-- Python
-- Machine Learning
-- Data Analysis
-- AI System Design
-- Git & GitHub
-- Healthcare Technology Innovation
+## 🧭 Sorabbyngo Vision
+
+Building intelligent healthcare ecosystems combining:
+
+✅ AI-powered patient monitoring  
+✅ Emergency healthcare response systems  
+✅ Predictive disease detection  
+✅ Digital healthcare infrastructure  
+✅ Future wearable health technology  
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧠 AI & Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-green?style=for-the-badge)
+
+---
+
+## 🔬 Current Focus
+
 - Advanced Machine Learning
-- AI Healthcare Applications
-- System Architecture & Scalable Tech Solutions
+- Healthcare AI Platforms
+- Scalable System Architecture
+- High-impact Tech for Developing Regions
 
 ---
 
-## 🌱 Future Goals
-- Build globally impactful healthcare AI systems
-- Develop healthcare monitoring hardware & wearable technology
-- Expand Sorabbyngo across Africa and globally
+## 📊 GitHub Stats
+
+![Semaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=semajledif&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🤝 Open To Collaborate On
-- AI & Machine Learning Projects
-- Healthcare Technology Solutions
-- Innovative Startup Ideas
-- Open Source Impact Projects
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semajledif&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://github.com/semajledif/semajledif/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Open Collaboration
+
+I am open to collaborating on:
+
+- AI & Machine Learning Projects  
+- Healthcare Technology Solutions  
+- Open Source Innovation  
+- Startup Tech Development  
+
+---
+
+## 🌱 Long-Term Vision
+
+✔ Build globally impactful healthcare AI systems  
+✔ Develop smart healthcare monitoring hardware  
+✔ Expand Sorabbyngo worldwide  
+✔ Lead digital healthcare transformation  
 
 ---
 
 ## 📫 Connect With Me
+
 - GitHub: https://github.com/semajledif
-- LinkedIn: semajledif
+- LinkedIn: Coming Soon
+- Portfolio Website: Future Project
 
 ---
 
-⭐ *"Technology is most powerful when it saves lives and transforms communities."*
+⭐ *"Technology becomes truly powerful when it improves and saves human lives."*
+
