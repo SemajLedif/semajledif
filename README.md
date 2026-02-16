@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Semaj
+# 👋 Hi, I'm James
 
 ## 🚀 About Me
 I am a technology builder passionate about using **Artificial Intelligence and Machine Learning** to solve real-world healthcare challenges.
 
-🌍 Founder & Vision Builder of **Sorabbyngo**  
+🌍 co-founder & Vision Builder of **Sorabbyngo**  
 🧠 Currently mastering Machine Learning and AI systems  
 💡 Focused on scalable healthcare innovation for Africa and the world  
 
