@@ -51,9 +51,8 @@ Building intelligent healthcare systems that improve:
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add later if you want)
-- Portfolio: (Future website)
+- GitHub: https://github.com/semajledif
+- LinkedIn: semajledif
 
 ---
 
