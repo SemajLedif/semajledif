@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Semaj
+# 👋 Hello, I'm James
 
 ### 🚀 AI Builder | Healthcare Innovator | Startup Visionary
 
